@@ -1,5 +1,7 @@
+import classes from './logo.module.css';
+
 const Logo = () => {
-  return "this is a logo";
+  return <div className={classes.logo}>JSREACT QUESTIONS</div>
 };
 
 export default Logo;

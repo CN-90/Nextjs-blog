@@ -12,7 +12,7 @@ const Hero = () => {
           height={300}
         />
       </div>
-      <h1>A blog about javascript stuff.</h1>
+      <h1>Javascript & React Interview Questions</h1>
     </section>
   );
 };
